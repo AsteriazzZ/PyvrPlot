@@ -1,0 +1,113 @@
+[ 2018-05-03 09:24:59 ] Capture SDK Version: : 1.30
+[ 2018-05-03 09:27:06 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 09:27:06 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 09:27:06 ][INFO] Start audio capture
+[ 2018-05-03 09:27:09 ][INFO] Released wave file resources
+[ 2018-05-03 09:27:09 ][INFO] Start audio transcoding
+[ 2018-05-03 09:27:09 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 09:28:12 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 09:28:12 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 09:28:12 ][INFO] Output folder already existed
+[ 2018-05-03 09:28:12 ][INFO] Start audio capture
+[ 2018-05-03 09:28:14 ][INFO] Released wave file resources
+[ 2018-05-03 09:28:14 ][INFO] Start audio transcoding
+[ 2018-05-03 09:28:14 ][INFO] Released audio capture devices
+[ 2018-05-03 10:17:06 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:17:06 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:17:06 ][INFO] Output folder already existed
+[ 2018-05-03 10:17:06 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:17:06 ][INFO] Start audio capture
+[ 2018-05-03 10:17:53 ][INFO] Released wave file resources
+[ 2018-05-03 10:17:53 ][INFO] Start audio transcoding
+[ 2018-05-03 10:17:53 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 10:21:06 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:21:06 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:21:06 ][INFO] Output folder already existed
+[ 2018-05-03 10:21:06 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:21:06 ][INFO] Start audio capture
+[ 2018-05-03 10:21:50 ][INFO] Released wave file resources
+[ 2018-05-03 10:21:50 ][INFO] Start audio transcoding
+[ 2018-05-03 10:21:50 ][INFO] Released audio capture devices
+[ 2018-05-03 10:28:31 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:28:31 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:28:31 ][INFO] Output folder already existed
+[ 2018-05-03 10:28:31 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:28:32 ][INFO] Start audio capture
+[ 2018-05-03 10:30:51 ][INFO] Released wave file resources
+[ 2018-05-03 10:30:51 ][INFO] Start audio transcoding
+[ 2018-05-03 10:30:51 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 10:32:42 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:32:42 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:32:42 ][INFO] Output folder already existed
+[ 2018-05-03 10:32:42 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:32:42 ][INFO] Start audio capture
+[ 2018-05-03 10:34:30 ][INFO] Released wave file resources
+[ 2018-05-03 10:34:30 ][INFO] Start audio transcoding
+[ 2018-05-03 10:34:30 ][INFO] Released audio capture devices
+[ 2018-05-03 10:35:57 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:35:57 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:35:57 ][INFO] Output folder already existed
+[ 2018-05-03 10:35:57 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:35:57 ][INFO] Start audio capture
+[ 2018-05-03 10:38:07 ][INFO] Released wave file resources
+[ 2018-05-03 10:38:07 ][INFO] Start audio transcoding
+[ 2018-05-03 10:38:07 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 10:39:02 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:39:02 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:39:02 ][INFO] Output folder already existed
+[ 2018-05-03 10:39:02 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:39:02 ][INFO] Start audio capture
+[ 2018-05-03 10:41:21 ][INFO] Released wave file resources
+[ 2018-05-03 10:41:21 ][INFO] Start audio transcoding
+[ 2018-05-03 10:41:21 ][INFO] Released audio capture devices
+[ 2018-05-03 10:52:49 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:52:49 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:52:49 ][INFO] Output folder already existed
+[ 2018-05-03 10:52:49 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:52:49 ][INFO] Start audio capture
+[ 2018-05-03 10:53:11 ][INFO] Released wave file resources
+[ 2018-05-03 10:53:11 ][INFO] Start audio transcoding
+[ 2018-05-03 10:53:11 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 10:54:08 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:54:08 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:54:08 ][INFO] Output folder already existed
+[ 2018-05-03 10:54:08 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:54:08 ][INFO] Start audio capture
+[ 2018-05-03 10:54:15 ][INFO] Released wave file resources
+[ 2018-05-03 10:54:15 ][INFO] Start audio transcoding
+[ 2018-05-03 10:54:15 ][INFO] Released audio capture devices
+[ 2018-05-03 10:55:23 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:55:23 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:55:23 ][INFO] Output folder already existed
+[ 2018-05-03 10:55:23 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:55:23 ][INFO] Start audio capture
+[ 2018-05-03 10:55:25 ][INFO] Released wave file resources
+[ 2018-05-03 10:55:25 ][INFO] Start audio transcoding
+[ 2018-05-03 10:55:25 ][ERROR] Muxing failed, error: : 516
+[ 2018-05-03 10:56:20 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 10:56:20 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 10:56:20 ][INFO] Output folder already existed
+[ 2018-05-03 10:56:20 ][INFO] It's invalid texture pointer: null
+[ 2018-05-03 10:56:20 ][INFO] Start audio capture
+[ 2018-05-03 10:59:20 ][INFO] Released wave file resources
+[ 2018-05-03 10:59:20 ][INFO] Start audio transcoding
+[ 2018-05-03 10:59:20 ][INFO] Released audio capture devices
+[ 2018-05-03 11:14:54 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 11:14:54 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 11:14:54 ][INFO] Output folder already existed
+[ 2018-05-03 11:14:54 ][INFO] Added metadata for 360 recognition in FB
+[ 2018-05-03 11:14:54 ][INFO] Succeeded screen capture
+[ 2018-05-03 11:14:54 ][INFO] Screenshot has successfully finished
+[ 2018-05-03 11:14:57 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 11:14:57 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 11:14:57 ][INFO] Output folder already existed
+[ 2018-05-03 11:14:57 ][INFO] Added metadata for 360 recognition in FB
+[ 2018-05-03 11:14:57 ][INFO] Succeeded screen capture
+[ 2018-05-03 11:14:57 ][INFO] Screenshot has successfully finished
+[ 2018-05-03 11:15:00 ][INFO] Graphics Card Info: : NVIDIA GeForce GTX 1080
+[ 2018-05-03 11:15:00 ][INFO] Graphics Card Info: : Microsoft Basic Render Driver
+[ 2018-05-03 11:15:00 ][INFO] Output folder already existed
+[ 2018-05-03 11:15:00 ][INFO] Added metadata for 360 recognition in FB
+[ 2018-05-03 11:15:00 ][INFO] Succeeded screen capture
+[ 2018-05-03 11:15:00 ][INFO] Screenshot has successfully finished
+[ 2018-05-03 11:37:55 ] Released audio capture devices
